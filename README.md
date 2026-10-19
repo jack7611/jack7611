@@ -6,9 +6,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,nodejs,react,flutter,django,mysql,mongodb,docker,vercel,gcp,git,vscode&theme=dark&perline=13" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,js,nodejs,react,flutter,django,mysql,mongodb,docker,vercel,gcp,git,vscode&theme=light&perline=13" />
-    <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,js,nodejs,react,flutter,django,mysql,mongodb,docker,vercel,gcp,git,vscode&theme=light&perline=13" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Creact%2Cflutter%2Cdjango%2Cmysql%2Cmongodb%2Cdocker%2Cvercel%2Cgcp%2Cgit%2Cvscode&theme=dark&perline=13" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Creact%2Cflutter%2Cdjango%2Cmysql%2Cmongodb%2Cdocker%2Cvercel%2Cgcp%2Cgit%2Cvscode&theme=light&perline=13" />
+    <img alt="Tech stack" src="https://skillicons.dev/icons?i=py%2Cjs%2Cnodejs%2Creact%2Cflutter%2Cdjango%2Cmysql%2Cmongodb%2Cdocker%2Cvercel%2Cgcp%2Cgit%2Cvscode&theme=light&perline=13" />
   </picture>
 </div>
 
